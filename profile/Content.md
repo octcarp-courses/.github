@@ -41,3 +41,11 @@
 
 - [【AMAS】CSE5022 - Assignments](https://github.com/octcarp-courses/SUSTech_CSE5022-AMAS_S25_Works)
 
+### 🍁 SUSTech 2025 Fall
+
+- [【Combinatorial Optimization】Assignments](https://github.com/octcarp-courses/SUSTech_CSE5025-CO_F25_Works)
+- [【Adv Distributed】CSE5020 - Lab (Public N/A)](https://github.com/octcarp-courses/SUSTech_CSE5020-Adv-Distributed_F25_Works)
+
+### Class dismissed
+
+EOF
